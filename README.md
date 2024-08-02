@@ -1,0 +1,3 @@
+# What is this project?
+This project is a job application webpage built with the help of Python and Django. The user can fill in their details in a form displayed in the webpage. The data is stored in a SQLite database. Once the form is submitted, a confirmation mail is sent to the job applicant.
+The app also implements an 'about' and a 'contact us' page. It also has a separate page for admins to access the database easily.
